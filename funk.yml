@@ -1,0 +1,7 @@
+default:
+    autoload:
+        tests: '%paths.base%'
+
+    suites:
+        doctrine_infra: ~
+
